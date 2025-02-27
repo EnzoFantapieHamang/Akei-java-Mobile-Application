@@ -1,10 +1,11 @@
 # Akei
 
-Akei is a mobile application developed in Java. This academic project gave me the opportunity to learn how to work in a team using the Scrum methodology. We started from the requirements analysis and went all the way through to the deployment of the application.
+Akei is a mobile application that we designed and developed for educational purposes using the agile SCRUM method. The application is not finished, the design and operation are not complete.
 
 # Installation
 
-Clone repository : git clone https://github.com/ton-compte/ton-projet.git
-Install dependencies in your project: flutter 
-Run Project.
+Clone repository : git clone
+Open project on Android Studio
+Start an AVD
+Run the project
 
