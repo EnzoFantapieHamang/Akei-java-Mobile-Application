@@ -4,7 +4,7 @@ Akei is a mobile application that we designed and developed for educational purp
 
 # Installation
 
-Clone repository : git clone
+Clone repository : git clone https://github.com/EnzoFantapieHamang/Akei-java-Mobile-Application.git
 Open project on Android Studio
 Start an AVD
 Run the project
